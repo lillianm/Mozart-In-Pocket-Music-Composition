@@ -1,0 +1,1621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" automaticImage="JPEG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="com.androidApp.mozartinpocket.cloud.MusicInCloudActivity.DownloadPostListTask" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/MusicInCloudActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="257" x="3112" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.androidApp.mozartinpocket.compose.MusicScorePlayer" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/MusicScorePlayer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="260" width="339" x="629" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.androidApp.mozartinpocket.compose.ComposeActivity.JsInterface" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/ComposeActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="204" x="591" y="4621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="com.androidApp.mozartinpocket.cloud.RefreshableView.PullToRefreshListener" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/RefreshableView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="187" x="4892" y="3979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.androidApp.mozartinpocket.compose.ComposeActivity" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/ComposeActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="602" width="523" x="898" y="3979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="com.androidApp.mozartinpocket.compose.ComposeDialog.Callbacks" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/ComposeDialog.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="208" x="1101" y="5617"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="com.androidApp.mozartinpocket.cloud.RefreshableView" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/RefreshableView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="764" width="317" x="4139" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.androidApp.mozartinpocket.cloud.MusicInCloudActivity" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/MusicInCloudActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="566" width="354" x="3891" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.androidApp.mozartinpocket.compose.ScoreParser" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/ScoreParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="332" width="445" x="616" y="5617"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.androidApp.mozartinpocket.cloud.CustomAdapter.ViewHolder" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/CustomAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="187" x="4578" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.androidApp.mozartinpocket.cloud.RefreshableView.RefreshingTask" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/RefreshableView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="207" x="3979" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.androidApp.mozartinpocket.compose.ComposeActivity.composeViewClient" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/ComposeActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="314" x="898" y="4621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.androidApp.mozartinpocket.compose.ComposeDialog" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/compose/ComposeDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="170" width="204" x="1008" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.androidApp.mozartinpocket.cloud.DataStorage" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/DataStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="187" x="3891" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.androidApp.mozartinpocket.cloud.CustomAdapter" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/CustomAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="422" width="618" x="4538" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.androidApp.mozartinpocket.cloud.RefreshableView.HideHeaderTask" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/cloud/RefreshableView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="207" x="4268" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.androidApp.mozartinpocket.database.DataBaseHelper" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/database/DataBaseHelper.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="291" x="2058" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.androidApp.mozartinpocket.dbpopulation.DataBasePopulation" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/dbpopulation/DataBasePopulation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="80" width="223" x="1157" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.androidApp.mozartinpocket.database.DataBaseManager" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/database/DataBaseManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="260" width="231" x="2058" y="4621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.androidApp.mozartinpocket.exception.EditTextEmptyException" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/exception/EditTextEmptyException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="243" x="2535" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.androidApp.mozartinpocket.exception.MusicContentEmptyException" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/exception/MusicContentEmptyException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="546" x="43" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.androidApp.mozartinpocket.exception.IllegalNameException" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/exception/IllegalNameException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="200" width="769" x="2473" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.androidApp.mozartinpocket.exception.MusicListEmptyException" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/exception/MusicListEmptyException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="246" x="3952" y="703"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsListActivity" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsListActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="263" x="2828" y="229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="25" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsDetailFragment.Callbacks" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsDetailFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="80" width="200" x="959" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="26" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsDetailFragment" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsDetailFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="548" width="415" x="1201" y="1303"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsListFragment" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsListFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="359" x="3933" y="1303"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.androidApp.mozartinpocket.musiclist.EmptyFragment" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/EmptyFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="98" width="322" x="3508" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsDetailActivity" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsDetailActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="263" x="2544" y="547"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="30" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsListFragment.Callbacks" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsListFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="200" x="4285" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="31" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicItemList" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicItemList.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="188" width="713" x="980" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="32" language="java" name="com.androidApp.mozartinpocket.musiclist.MusicsDetailFragment.Callbacks2" 
+    project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/musiclist/MusicsDetailFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="80" width="241" x="1262" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="33" language="java" name="com.androidApp.mozartinpocket.post.PostDetailFragment" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/post/PostDetailFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="386" width="415" x="2068" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.androidApp.mozartinpocket.post.PostActivity" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/post/PostActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="381" x="3973" y="1039"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.androidApp.mozartinpocket.post.PostDetailFragment.Shake" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/post/PostDetailFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="182" x="1796" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.androidApp.mozartinpocket.post.PostDetailFragment.UploadMusicTask" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/post/PostDetailFragment.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="207" x="1528" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.androidApp.mozartinpocket.util.ChangePhotoDialog" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/ChangePhotoDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="206" width="215" x="3515" y="3979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.androidApp.mozartinpocket.share.ShareActivity" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/share/ShareActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="224" width="381" x="4394" y="1039"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.androidApp.mozartinpocket.util.ImageLoader.BitmapDisplayer" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/ImageLoader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="239" x="3946" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.androidApp.mozartinpocket.sensor.ShakeListener" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/sensor/ShakeListener.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="278" width="266" x="2806" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.androidApp.mozartinpocket.util.MemoryCache" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/MemoryCache.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="722" x="4246" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.androidApp.mozartinpocket.profile.UserProfileActivity" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/profile/UserProfileActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="638" width="340" x="3515" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.androidApp.mozartinpocket.util.FileCache" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/FileCache.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="175" x="4267" y="4621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.androidApp.mozartinpocket.util.TabsControl" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/TabsControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="175" x="3933" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.androidApp.mozartinpocket.util.Navigation" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/Navigation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="187" x="3447" y="703"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="com.androidApp.mozartinpocket.util.GPSTracker" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/GPSTracker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="350" width="249" x="2039" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="47" language="java" name="com.androidApp.mozartinpocket.sensor.ShakeListener.OnShakeListener" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/sensor/ShakeListener.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="193" x="3282" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="48" language="java" name="com.androidApp.mozartinpocket.util.ImageLoader.PhotosLoader" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/ImageLoader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="185" x="3979" y="4621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.androidApp.mozartinpocket.share.ShareDetailFragment" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/share/ShareDetailFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="188" width="464" x="1564" y="1891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="com.androidApp.mozartinpocket.util.ImageLoader" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/ImageLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="646" x="4185" y="3979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.androidApp.mozartinpocket.profile.UserProfileActivity.UploadUserTask" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/profile/UserProfileActivity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="207" x="3247" y="3979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.androidApp.mozartinpocket.util.ImageLoader.PhotoToLoad" 
+    project="MozartInPocket" file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/ImageLoader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="204" x="3946" y="5617"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="com.androidApp.mozartinpocket.util.ScreenShotUtils" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/util/ScreenShotUtils.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="224" width="234" x="5177" y="4621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="com.androidApp.mozartinpocket.LoginActivity.LoginTask" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="207" x="2163" y="3301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="com.androidApp.mozartinpocket.LoginActivity" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/androidApp/mozartinpocket/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="332" width="354" x="2412" y="2497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="com.mozartinpocket.entities.Music" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/mozartinpocket/entities/Music.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="422" width="203" x="1528" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="com.mozartinpocket.entities.User" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/mozartinpocket/entities/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="656" width="191" x="3247" y="4921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="com.mozartinpocket.entities.Post" project="MozartInPocket" 
+    file="/MozartInPocket/src/com/mozartinpocket/entities/Post.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="584" width="201" x="1733" y="3979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="59">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="60">    
+    <bendpoint x="825" y="4621"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="64">    
+    <bendpoint x="2939" y="1039"/>    
+    <bendpoint x="2939" y="1303"/>    
+    <bendpoint x="2939" y="1891"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <association id="65">    
+    <bendpoint x="1210" y="1891"/>    
+    <bendpoint x="949" y="2497"/>    
+    <bendpoint x="968" y="3301"/>    
+    <bendpoint x="1451" y="3979"/>    
+    <bendpoint x="1451" y="4621"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="66" name="musicItem"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="68">    
+    <bendpoint x="3921" y="547"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <association id="69">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="70" name="fileCache"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="73" name="musiclistCallbacks"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="75">    
+    <bendpoint x="1667" y="703"/>    
+    <bendpoint x="1604" y="1039"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="76">    
+    <bendpoint x="2360" y="2497"/>    
+    <bendpoint x="2132" y="3301"/>    
+    <bendpoint x="2151" y="3979"/>    
+    <bendpoint x="2319" y="4621"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="77">    
+    <bendpoint x="3456" y="1039"/>    
+    <bendpoint x="3456" y="1303"/>    
+    <bendpoint x="3456" y="1891"/>    
+    <bendpoint x="3456" y="2497"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="78">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="79">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="80">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="81" name="login"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="83">    
+    <bendpoint x="3837" y="229"/>    
+    <bendpoint x="3837" y="547"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <realization id="85">    
+    <bendpoint x="1170" y="547"/>    
+    <bendpoint x="1170" y="703"/>    
+    <bendpoint x="1170" y="1039"/>    
+    <bendpoint x="1170" y="1303"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <dependency id="86">    
+    <bendpoint x="3519" y="1303"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <nesting id="87">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <nesting id="88">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <dependency id="89">    
+    <bendpoint x="4361" y="229"/>    
+    <bendpoint x="4361" y="547"/>    
+    <bendpoint x="4361" y="703"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="90">    
+    <bendpoint x="865" y="229"/>    
+    <bendpoint x="865" y="547"/>    
+    <bendpoint x="865" y="703"/>    
+    <bendpoint x="865" y="1039"/>    
+    <bendpoint x="865" y="1303"/>    
+    <bendpoint x="865" y="1891"/>    
+    <bendpoint x="865" y="2497"/>    
+    <bendpoint x="886" y="3301"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="91">    
+    <bendpoint x="3256" y="4621"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="92">    
+    <bendpoint x="1765" y="2497"/>    
+    <bendpoint x="1765" y="3301"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="93">    
+    <bendpoint x="3146" y="547"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="94">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="95">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <association id="96">    
+    <bendpoint x="2421" y="3301"/>    
+    <bendpoint x="2421" y="3979"/>    
+    <bendpoint x="2421" y="4621"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="97" name="currentUser"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="99">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="100">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <association id="101">    
+    <bendpoint x="1723" y="2497"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="102" name="uploadMusicTask"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="105" name="jsInterface"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="107">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <nesting id="108">    
+    <bendpoint x="4216" y="3301"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <dependency id="109">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <nesting id="110">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <dependency id="111">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="113">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <nesting id="114">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="48"/>  
+  </nesting>  
+  <dependency id="115">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="116">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <association id="117">    
+    <bendpoint x="1472" y="3301"/>    
+    <bendpoint x="1472" y="3979"/>    
+    <bendpoint x="1472" y="4621"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="118" name="musicMap"/>      
+      <multiplicity id="119" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="120">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="121">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="122" name="detailCallback2"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="124">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="125">    
+    <bendpoint x="4486" y="2497"/>    
+    <bendpoint x="4505" y="3301"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="126">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="127" name="dbHelper"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="130">    
+    <bendpoint x="2008" y="2497"/>    
+    <bendpoint x="2006" y="3301"/>    
+    <bendpoint x="2006" y="3979"/>    
+    <bendpoint x="2006" y="4621"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="131" name="musicItem"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="133">    
+    <bendpoint x="1786" y="3301"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="134">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="135">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="136">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="137" name="dbManager"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="139">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="140" name="dialogCallbacks"/>      
+      <multiplicity id="141" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="142">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <realization id="143">    
+    <bendpoint x="4322" y="1303"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="30"/>  
+  </realization>  
+  <dependency id="144">    
+    <bendpoint x="1625" y="1039"/>    
+    <bendpoint x="1149" y="1303"/>    
+    <bendpoint x="907" y="1891"/>    
+    <bendpoint x="907" y="2497"/>    
+    <bendpoint x="907" y="3301"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="145">    
+    <bendpoint x="2069" y="3301"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="58"/>  
+  </dependency>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="147">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="148">    
+    <bendpoint x="1985" y="3301"/>    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="149">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="151">    
+    <bendpoint x="2513" y="547"/>    
+    <bendpoint x="2513" y="703"/>    
+    <bendpoint x="2513" y="1039"/>    
+    <bendpoint x="2513" y="1303"/>    
+    <bendpoint x="2513" y="1891"/>    
+    <bendpoint x="2381" y="2497"/>    
+    <bendpoint x="2111" y="3301"/>    
+    <bendpoint x="2111" y="3979"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="152" name="dbManager"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="154">    
+    <bendpoint x="2534" y="1891"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="155">    
+    <bendpoint x="2172" y="3979"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="156">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <realization id="157">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="47"/>  
+  </realization>  
+  <nesting id="158">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <dependency id="159">    
+    <bendpoint x="2442" y="3979"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="160">    
+    <bendpoint x="886" y="547"/>    
+    <bendpoint x="886" y="703"/>    
+    <bendpoint x="886" y="1039"/>    
+    <bendpoint x="886" y="1303"/>    
+    <bendpoint x="886" y="1891"/>    
+    <bendpoint x="886" y="2497"/>    
+    <bendpoint x="865" y="3301"/>    
+    <bendpoint x="866" y="3979"/>    
+    <bendpoint x="867" y="4621"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="161">    
+    <bendpoint x="3498" y="1303"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <dependency id="162">    
+    <bendpoint x="1537" y="3979"/>    
+    <bendpoint x="1537" y="4621"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <nesting id="163">    
+    <bendpoint x="4194" y="4621"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="39"/>  
+  </nesting>  
+  <nesting id="164">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="165">    
+    <bendpoint x="3915" y="4921"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="166" name="photoToLoad"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <bendpoint x="4507" y="2497"/>    
+    <bendpoint x="4526" y="3301"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="169" name="imageLoader"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="171">    
+    <bendpoint x="3484" y="3979"/>    
+    <bendpoint x="3484" y="4621"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="172">    
+    <bendpoint x="989" y="3301"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="173">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="174">    
+    <bendpoint x="4861" y="3979"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="175">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="176">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="177" name="mShakeListener"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="179">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="180">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="181">    
+    <bendpoint x="2837" y="547"/>    
+    <bendpoint x="2837" y="703"/>    
+    <bendpoint x="2837" y="1039"/>    
+    <bendpoint x="2837" y="1303"/>    
+    <bendpoint x="2837" y="1891"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <association id="182">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="183" name="downloadPostListTask"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="185">    
+    <bendpoint x="1964" y="3301"/>    
+    <bendpoint x="1964" y="3979"/>    
+    <bendpoint x="1964" y="4621"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <dependency id="186">    
+    <bendpoint x="5186" y="2497"/>    
+    <bendpoint x="5186" y="3301"/>    
+    <bendpoint x="5186" y="3979"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="187">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <association id="188">    
+    <bendpoint x="2442" y="3301"/>    
+    <bendpoint x="2463" y="3979"/>    
+    <bendpoint x="2463" y="4621"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="189" name="user"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="191">    
+    <bendpoint x="4340" y="547"/>    
+    <bendpoint x="4382" y="703"/>    
+    <bendpoint x="4816" y="1039"/>    
+    <bendpoint x="5249" y="1303"/>    
+    <bendpoint x="5249" y="1891"/>    
+    <bendpoint x="5249" y="2497"/>    
+    <bendpoint x="5249" y="3301"/>    
+    <bendpoint x="5249" y="3979"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="192">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="193">    
+    <bendpoint x="3942" y="229"/>    
+    <bendpoint x="3942" y="547"/>    
+    <bendpoint x="3921" y="703"/>    
+    <bendpoint x="3900" y="1039"/>    
+    <bendpoint x="3900" y="1303"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="194">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="195" name="refreshableView"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="198" name="callback2"/>      
+      <multiplicity id="199" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="200">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="201">    
+    <bendpoint x="2400" y="3979"/>    
+    <bendpoint x="2400" y="4621"/>    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <association id="202">    
+    <bendpoint x="4236" y="4621"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="203" name="memoryCache"/>      
+      <multiplicity id="204" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="205">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="206">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <nesting id="207">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <dependency id="208">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="209">    
+    <bendpoint x="3839" y="2497"/>    
+    <bendpoint x="3906" y="3301"/>    
+    <bendpoint x="3906" y="3979"/>    
+    <bendpoint x="3906" y="4621"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <realization id="210">    
+    <bendpoint x="5207" y="1303"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="30"/>  
+  </realization>  
+  <dependency id="211">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <nesting id="212">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="54"/>  
+  </nesting>  
+  <dependency id="213">    
+    <bendpoint x="3477" y="1039"/>    
+    <bendpoint x="3477" y="1303"/>    
+    <bendpoint x="3477" y="1891"/>    
+    <bendpoint x="3681" y="2497"/>    
+    <bendpoint x="3885" y="3301"/>    
+    <bendpoint x="3885" y="3979"/>    
+    <bendpoint x="3885" y="4621"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <association id="214">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="215" name="onShakeListener"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="217">    
+    <bendpoint x="1242" y="4621"/>    
+    <bendpoint x="1242" y="4921"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="218">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="219" name="musicsDetailCallback"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="221">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="222">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="223" name="myAdapter"/>      
+      <multiplicity id="224" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="225">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="226">    
+    <bendpoint x="928" y="547"/>    
+    <bendpoint x="928" y="703"/>    
+    <bendpoint x="928" y="1039"/>    
+    <bendpoint x="928" y="1303"/>    
+    <bendpoint x="928" y="1891"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="227">    
+    <bendpoint x="3795" y="1039"/>    
+    <bendpoint x="3837" y="1303"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="228">    
+    <bendpoint x="1263" y="4621"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <nesting id="229">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <nesting id="230">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="231">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="232" name="photoToLoad"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="234">    
+    <bendpoint x="5186" y="1303"/>    
+    <bendpoint x="5197" y="1891"/>    
+    <bendpoint x="5207" y="2497"/>    
+    <bendpoint x="5207" y="3301"/>    
+    <bendpoint x="5207" y="3979"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <association id="235">    
+    <bendpoint x="4547" y="3301"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="236" name="imageLoader"/>      
+      <multiplicity id="237" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="238">    
+    <bendpoint x="2400" y="3301"/>    
+    <bendpoint x="2379" y="3979"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="239" name="dbManager"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="241">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="242">    
+    <bendpoint x="3900" y="547"/>    
+    <bendpoint x="3900" y="703"/>    
+    <bendpoint x="3942" y="1039"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <nesting id="243">    
+    <bendpoint x="4215" y="4621"/>    
+    <bendpoint x="4215" y="4921"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <nesting id="244">    
+    <bendpoint x="1744" y="2497"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <dependency id="245">    
+    <bendpoint x="4403" y="229"/>    
+    <bendpoint x="4403" y="547"/>    
+    <bendpoint x="4403" y="703"/>    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="246">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <nesting id="247">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <dependency id="248">    
+    <bendpoint x="1583" y="547"/>    
+    <bendpoint x="1583" y="703"/>    
+    <bendpoint x="1583" y="1039"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="249">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="250" name="uploadUserTask"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="253" name="mCallbacks"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="255">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="256">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="257">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="258" name="myCallbacks"/>      
+      <multiplicity id="259" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="260">    
+    <bendpoint x="1231" y="1891"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="261">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <dependency id="262">    
+    <bendpoint x="2339" y="2497"/>    
+    <bendpoint x="2048" y="3301"/>    
+    <bendpoint x="2048" y="3979"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="263">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <realization id="264">    
+    <bendpoint x="1646" y="547"/>    
+    <bendpoint x="1646" y="703"/>    
+    <bendpoint x="1646" y="1039"/>    
+    <bendpoint x="1646" y="1303"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <dependency id="265">    
+    <bendpoint x="3816" y="547"/>    
+    <bendpoint x="3816" y="703"/>    
+    <bendpoint x="3816" y="1039"/>    
+    <bendpoint x="3816" y="1303"/>    
+    <bendpoint x="3860" y="1891"/>    
+    <bendpoint x="3860" y="2497"/>    
+    <bendpoint x="3927" y="3301"/>    
+    <bendpoint x="3927" y="3979"/>    
+    <bendpoint x="3927" y="4621"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="266">    
+    <bendpoint x="5228" y="1303"/>    
+    <bendpoint x="5228" y="1891"/>    
+    <bendpoint x="5228" y="2497"/>    
+    <bendpoint x="5228" y="3301"/>    
+    <bendpoint x="5228" y="3979"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="267">    
+    <bendpoint x="1189" y="1891"/>    
+    <bendpoint x="928" y="2497"/>    
+    <bendpoint x="928" y="3301"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="268">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <nesting id="269">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="270">    
+    <bendpoint x="3399" y="2497"/>    
+    <bendpoint x="2090" y="3301"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="271" name="postList"/>      
+      <multiplicity id="272" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="273">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <dependency id="274">    
+    <bendpoint x="2534" y="1039"/>    
+    <bendpoint x="2033" y="1303"/>    
+    <bendpoint x="1533" y="1891"/>    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="275">    
+    <bendpoint x="4108" y="2497"/>    
+    <bendpoint x="3948" y="3301"/>    
+    <bendpoint x="3948" y="3979"/>    
+    <bendpoint x="3948" y="4621"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <dependency id="276">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="277">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="278">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="279">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <nesting id="280">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="51"/>  
+  </nesting>  
+  <association id="281">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="282" name="myCallbacks"/>      
+      <multiplicity id="283" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="284">    
+    <bendpoint x="3879" y="547"/>    
+    <bendpoint x="3879" y="703"/>    
+    <bendpoint x="3879" y="1039"/>    
+    <bendpoint x="3879" y="1303"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="30"/>  
+  </realization>  
+  <dependency id="285">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="286">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <association id="287">    
+    <bendpoint x="4237" y="3301"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="288" name="mListener"/>      
+      <multiplicity id="289" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="290">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="291">    
+    <bendpoint x="846" y="4621"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <generalization id="292">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <dependency id="293">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="56"/>  
+  </dependency>  
+  <association id="294">    
+    <bendpoint x="2318" y="2497"/>    
+    <bendpoint x="2027" y="3301"/>    
+    <bendpoint x="2027" y="3979"/>    
+    <bendpoint x="2027" y="4621"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="295" name="musicItem"/>      
+      <multiplicity id="296" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="297">    
+    <bendpoint x="3921" y="1039"/>    
+    <bendpoint x="3858" y="1303"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="298">    
+    <bendpoint x="1516" y="4621"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
